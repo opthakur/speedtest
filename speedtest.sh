@@ -1,4 +1,4 @@
 sudo apt-get update
 sudo apt-get install python-pip
-sudo pip install speedtest-cli -y
+sudo pip install -y speedtest-cli
 echo "Please run speedtest-cli"
